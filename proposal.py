@@ -13,7 +13,7 @@ st.set_page_config(
 # ---- Customize here ----
 HER_NAME = "Swetha"
 YOUR_NAME = "Hemanth"
-PHOTO_FILE = "US.jpg"   # place image in same folder
+PHOTO_FILE = "US.JPG"   # place image in same folder
 
 
 # -----------------------------------
