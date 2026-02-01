@@ -6,7 +6,7 @@ st.set_page_config(page_title="💍 One Question...", page_icon="💍", layout="
 # ---- Customize text here ----
 HER_NAME = "My Love"
 YOUR_NAME = "Your Name"
-PHOTO_FILE = "us.jpg"   # change to "us.png" if needed
+PHOTO_FILE = "US.jpg"   # change to "us.png" if needed
 
 # Read query params (Streamlit compatible way)
 try:
